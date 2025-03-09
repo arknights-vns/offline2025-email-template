@@ -1,0 +1,14 @@
+<mjml>
+  <mj-body>
+    <mj-section>
+    
+      <mj-column>
+        <mj-include path="./header.mjml"/>
+        <mj-text font-size="24px" color="#ffffff" font-family="serif">Xin chào bạn ${name}!</mj-text>
+        <mj-text font-size="16px" font-family="serif" color="#ffffff">Chúng mình cảm ơn bạn đã mua vé dành cho <b>Arknights VNS Offline 2025</b>!</mj-text>
+        <mj-text font-size="16px" font-family="serif" color="#ffffff">Sau đây là thông tin vé của bạn:</mj-text>
+        <mj-text>ticket info goes here</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
