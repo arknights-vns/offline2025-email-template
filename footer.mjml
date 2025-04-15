@@ -1,1 +1,1 @@
-<mj-text font-size="12px" font-family="JetBrains Mono"><p align = center>Arknights VNS Offline 2025: Dreamchasers - For the Doctors, by the Doctors<br>Email này được gửi đến <?= email ?> vào lúc <?= date ?></p></mj-text>
+<mj-text font-size="12px" font-family="Courier New"><p align = center>Arknights VNS Offline 2025: Dreamchasers - For the Doctors, by the Doctors<br>Email này được gửi đến <?= email ?> vào lúc <?= date ?></p></mj-text>
