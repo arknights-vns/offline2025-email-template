@@ -1,13 +1,20 @@
 <mjml>
+  <mj-head>
+      <mj-font name="Arvo" href="https://fonts.googleapis.com/css?family=Arvo"/>
+      <mj-font name="JetBrains Mono" href="https://fonts.googleapis.com/css?family=JetBrains+Mono"/>
+  </mj-head>
   <mj-body>
     <mj-section>
-    
       <mj-column>
         <mj-include path="./header.mjml"/>
-        <mj-text font-size="24px" color="#ffffff" font-family="serif">Xin chào bạn ${name}!</mj-text>
-        <mj-text font-size="16px" font-family="serif" color="#ffffff">Chúng mình cảm ơn bạn đã mua vé dành cho <b>Arknights VNS Offline 2025</b>!</mj-text>
-        <mj-text font-size="16px" font-family="serif" color="#ffffff">Sau đây là thông tin vé của bạn:</mj-text>
-        <mj-text>ticket info goes here</mj-text>
+        <mj-text font-size="24px" font-family="JetBrains Mono"><h3>Xin chào doctor <?= name ?>!</h3></mj-text>
+        <mj-text font-size="16px" font-family="JetBrains Mono">Chúng mình cảm ơn doctor đã mua vé dành cho <b>Arknights VNS Offline 2025</b>!<br></br>
+          Bạn đã mua <b><?= amount ?></b> vé tier <b><?= tier ?></b>.<br><br>
+          Offline sẽ được tổ chức tại <b>MCafé</b> (40 Nguyễn Văn Hưởng, Thảo Điền, Quận 2) vào ngày ??/??/????. Check-in bắt đầu vào lúc <b>9h00 sáng</b>.<br><br>
+          Khi doctor đến địa điểm offline, vui lòng đưa email này để lấy vé và check in.<br><br>
+          Hẹn gặp doctor tại offline!<br><br></mj-text>
+        <mj-text font-size="16px" font-family="JetBrains Mono">Trân trọng,<br>Ban tổ chức Arknights VNS Offline 2025</mj-text>
+      <mj-include path="./footer.mjml"/>
       </mj-column>
     </mj-section>
   </mj-body>
