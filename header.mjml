@@ -1,4 +1,5 @@
 <mj-text align = "center">
+<!--TODO: Gmail does not support SVG-->
 <svg
    version="1.1"
    id="Layer_1"
