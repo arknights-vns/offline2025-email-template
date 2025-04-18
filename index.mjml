@@ -7,7 +7,7 @@
     <mj-section >
       <mj-column>
         <mj-include path="./header.mjml"/>
-        <mj-text font-size="24px" font-family="Courier New"><b>Xin chào doctor <?= name ?>!</b></mj-text>
+        <mj-text font-size="24px" font-family="Courier New"><b>Kính gửi Doctor <?= name ?>,</b></mj-text>
         <mj-text font-size="16px" font-family="Courier New">
           Trân trọng cảm ơn Doctor đã đăng ký mua vé tham dự sự kiện <b>Arknights VNS Offline 2025: Dreamchasers</b>
           <br><br>
@@ -17,7 +17,7 @@
           <br><br>
           Khi đến địa điểm tổ chức, Doctor vui lòng xuất trình email này để nhận vé để thực hiện thủ tục check-in và nhận quà theo tier vé đã mua.
           <br><br>
-          Trong trường hợp cần được hỗ trợ hoặc có thắc mắc, vui lòng liên hệ Ban Tổ Chức thông qua <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Discord</a> hoặc nhắn tin trực tiếp tài khoản Facebook <a href="https://www.facebook.com/shou.huynhf">Shou Huỳnh</a>)
+          Trong trường hợp cần được hỗ trợ hoặc có thắc mắc, vui lòng liên hệ Ban Tổ Chức thông qua <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Discord</a> hoặc nhắn tin trực tiếp tài khoản Facebook <a href="https://www.facebook.com/shou.huynhf">Shou Huỳnh</a>
           <br><br>
           Xin một lần nữa chân thành cảm ơn. Chúng tôi rất mong được đón tiếp Doctor tại sự kiện.
           <br><br>
