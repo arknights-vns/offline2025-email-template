@@ -1,0 +1,3 @@
+# VNS Offline 2025 email template
+
+coming soon...
