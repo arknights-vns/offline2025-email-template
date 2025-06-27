@@ -6,4 +6,4 @@ this just contains like some MJML files to render that ticketing email ya got (o
 
 ~~no, there's no easter eggs or free tickets here. move along.~~
 
-[the guy who made this kinda likes exusiai, but not much](https://static.zerochan.net/Exusiai.full.2836126.jpg)
+![the guy who made this kinda likes exusiai, but not much](https://static.zerochan.net/Exusiai.full.2836126.jpg)
