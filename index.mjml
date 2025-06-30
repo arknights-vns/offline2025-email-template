@@ -3,8 +3,8 @@
     <mj-section>
       <mj-column>
         <mj-include path="./header.mjml"/>
-        <mj-text font-size="24px" font-family="Geneva" ><b>Kính gửi Doctor <?= name ?>,</b></mj-text>
-        <mj-text font-size="16px" font-family="Geneva">
+        <mj-text font-size="24px" font-family="Roboto" ><b>Kính gửi Doctor <?= name ?>,</b></mj-text>
+        <mj-text font-size="16px" font-family="Verdana">
         <p style="line-height: 1.25;">
           Trân trọng cảm ơn Doctor đã đăng ký mua vé tham dự sự kiện <b>Arknights VNS Offline 2025: Dreamchasers</b>
           <br><br>
@@ -20,7 +20,7 @@
           <br>
         </p>
         </mj-text>
-        <mj-text font-size="16px" font-family="Geneva">
+        <mj-text font-size="16px" font-family="Verdana">
           <p style="line-height: 1.25;">
           Trân trọng,
           <br>
