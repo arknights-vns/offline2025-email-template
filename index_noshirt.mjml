@@ -8,7 +8,7 @@
         <p style="line-height: 1.25;">
           Trân trọng cảm ơn Doctor đã đăng ký mua vé tham dự sự kiện <b>Arknights VNS Offline 2025: Dreamchasers</b>
           <br><br>
-          Doctor đã đăng ký vé Tier <b><?= tier ?></b>, và đã chọn <b>"<?= drink ?>".</b> Doctor đã chọn áo màu <b><?= color ?></b> size <b><?= size ?></b>.
+          Doctor đã đăng ký vé Tier <b><?= tier ?></b>, và đã chọn <b>"<?= drink ?>".</b>
           <br><br>
           Sự kiện sẽ được tổ chức tại <b>MCafé</b> (số 40 Nguyễn Văn Hưởng, Thảo Điền, Thủ Đức, TP. Hồ Chí Minh) vào ngày 10/08/2025. Thời gian bắt đầu check-in là <b>9 giờ sáng</b>.
           <br><br>
@@ -16,7 +16,7 @@
           <br><br>
           Trong trường hợp cần được hỗ trợ hoặc có thắc mắc, vui lòng liên hệ Ban Tổ Chức thông qua <a href="https://discord.gg/dgTVWerfUk">Discord</a> hoặc nhắn tin trực tiếp tài khoản Facebook <a href="https://www.facebook.com/shou.huynhf">Shou Huỳnh</a>
           <br><br>
-          Xin một lần nữa chân thành cảm ơn. Chúng tôi rất mong được đón tiếp Doctor tại sự kiện. 
+          Xin một lần nữa chân thành cảm ơn. Chúng tôi rất mong được đón tiếp Doctor tại sự kiện.
           <br>
         </p>
         </mj-text>
